@@ -53,5 +53,3 @@ class Events:
     def join(self, a_list):
         joined = ', '.join([ str(i) for i in a_list ])
         return joined
-
-© 2019 GitHub, Inc.
